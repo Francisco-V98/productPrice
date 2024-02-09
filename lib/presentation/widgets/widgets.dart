@@ -1,0 +1,1 @@
+export 'package:product_price/presentation/widgets/product_list/product_card.dart';
